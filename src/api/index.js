@@ -1,6 +1,6 @@
 
 function baseURL() {
-    const baseURL = 'http://localhost:4000';
+    const baseURL = 'https://backend-mongo-smni.onrender.com';
     return baseURL
 }
 
